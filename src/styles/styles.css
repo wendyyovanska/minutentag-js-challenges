@@ -1,0 +1,43 @@
+body {
+    font-family: "DM Sans", sans-serif;
+    background-color: #FAFAFA;
+}
+
+.theme-black {
+    color: #0F0D23;
+}
+
+.gray-theme {
+    color: #969696;
+}
+
+.primary-color {
+    color: #FF9F24;
+}
+
+
+.product-photo {
+    height: 240px;
+    margin: 0 auto;
+}
+
+.product-description-bg {
+    background-color: #FFFFFF;
+    border-radius: 48px 48px 0px 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.size-btn {
+    border-radius: 15.5px;
+    border: 1px solid #969696;
+}
+
+.active-btn {
+    border: 1px solid #FF9F24;
+    color: #FF9F24;
+}
+
+#hiddenText {
+    display: none;
+}
